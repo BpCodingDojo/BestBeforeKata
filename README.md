@@ -15,7 +15,7 @@ git commit -a -m "Fokaprem"
 git push
 ```
 
-## BesBeforeKata ##
+## BestBeforeKata ##
 
 This kata is one of the technical tests of the Spotify Tech Team. If wanna check it
 (http://www.spotify.com/es/jobs/tech/best-before/)
