@@ -1,0 +1,8 @@
+load:
+  - jasmine.js
+  - JasmineAdapter.js
+  - src/*.js
+  - test/*.js
+
+test:
+  - test/*.js
